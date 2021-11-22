@@ -1,11 +1,9 @@
-# Fraud-Detection-255
-
-# Team 5
+# Data Mining Project: Fraud Detection in Electricity and Gas
 
 ## Members
-  * Dhruvin Shah
-  * Sandhya Santhanam
-  * Sohan Shirodkar
+1. Dhruvin Shah
+2. Sandhya Santhanam
+3. Sohan Shirodkar
  
 
 The link to the datasets used in the project is as follows:
